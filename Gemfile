@@ -1,0 +1,7 @@
+source 'https://rubygems.org'
+ruby '2.7.1'
+require 'rspec'
+require 'pry'
+require 'rubocop'
+require 'nokogiri'
+require 'watir'
