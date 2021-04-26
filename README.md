@@ -13,6 +13,9 @@ You are free to use this code as you like.
 
 Change the path "/home/user/Desktop/" for your own. It will apply a folder including a lib folder and a rspec folder.
 
+Make an alias and call it this way :
+"your_alias(ruby script_auto_project.rb your_path) name_of_new_folder name-of_new_file_without_extension"
+
 Gemfile is automatically generated.
 
 A file Dotenv is automatically generated and written in a gitignore file.

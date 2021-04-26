@@ -4,8 +4,8 @@ require 'rubocop'
 require 'nokogiri'
 require 'watir'
 
-#ARVG input
-def check_user_setting
+  #ARVG input
+  def check_user_setting
     abort("missing input : need name_dir, name_file without extension") if ARGV.empty?
   end
   
