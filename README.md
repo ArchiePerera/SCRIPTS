@@ -1,8 +1,8 @@
 # SCRIPT THP (WEEK 4 TO 5)
 
-## written by archie for [the hacking project]
+## written by archie for [the hacking project](https://www.thehackingproject.org/)
 
-## THE SCRIPT AUTO PROJECT set automatically your environment for [THE HACKING PROJECT]. It is set for this installation :
+## THE SCRIPT AUTO PROJECT set automatically your environment for [THE HACKING PROJECT](https://www.thehackingproject.org/). It is set for this installation :
 
 - ruby '2.7.1'
 - rspec
